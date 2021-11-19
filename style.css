@@ -1,0 +1,39 @@
+body {
+  background-image: url("wallpaperflare.com_wallpaper.jpg");
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: azure;
+  font-family: "Cinzel", serif;
+  font-family: "Outfit", sans-serif;
+  font-family: "Petemoss", cursive;
+  font-family: "Praise", cursive;
+}
+
+h1 {
+  padding-top: 100px;
+  font-size: 60px;
+  color: #181D31;
+} 
+
+p{
+    font-size: 28px;
+    
+    color: white
+}
+
+#btn{
+width: 150px;
+height: 40px;
+font-size: 20px;
+text-align: center;
+border-radius: 5px;
+border: none;
+color: #FAFAFA;
+font-family: "Cinzel", serif;
+font-family: "Outfit", sans-serif;
+font-family: "Petemoss", cursive;
+font-family: "Praise", cursive;
+margin-right: 30px;
+background-color: #181D31;
+}
